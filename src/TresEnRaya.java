@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TresEnRaya {
 
 	/*
-	 * actualizado el control de versiones
+	 * actualizado el control de versiones (2)
 	 * 
 	 */
 	
